@@ -1,4 +1,4 @@
-# Python scripts for preprocessing airfoils
+# Python scripts for preprocessing airfoils used in [Webfoil](http://mdolab.engin.umich.edu/webfoil)
 
 ## Usage
 This repo contains three python scripts to preprocess airfoils.
